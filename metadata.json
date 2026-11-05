@@ -1,0 +1,6 @@
+{
+  "name": "LifeDrop - Community Blood Donor & Emergency Network",
+  "description": "A community-driven voluntary blood donor platform connecting patients in critical need with verified nearby donors and emergency volunteers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
